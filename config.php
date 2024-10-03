@@ -9,7 +9,7 @@ define('HTTPS_SERVER', 'https://site.pardeep.app/');
 define('DIR_APPLICATION', '/home4/anmolf8p/public_html/Websites/demo/pardeep.app/site.pardeep.app/catalog/');
 define('DIR_SYSTEM', '/home4/anmolf8p/public_html/Websites/demo/pardeep.app/site.pardeep.app/system/');
 define('DIR_IMAGE', '/home4/anmolf8p/public_html/Websites/demo/pardeep.app/site.pardeep.app/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/home4/anmolf8p/public_html/Websites/demo/pardeep.app/site.pardeep.app/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
